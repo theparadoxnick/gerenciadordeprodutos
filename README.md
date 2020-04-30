@@ -1,4 +1,4 @@
-# :newspaper: Gerenciador de Produtos
+# Gerenciador de Produtos
 
 Atividade que prevê a construção de um programa de gerenciamento de produtos.
 
